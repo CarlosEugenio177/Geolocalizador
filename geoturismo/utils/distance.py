@@ -1,5 +1,6 @@
 import math
 
+
 def calcular_distancia_km(lat1, lon1, lat2, lon2):
     raio_terra_km = 6371.0
 
